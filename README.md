@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-http://googleusercontent.com/image_generation_content/1
+  <img src="https://media.giphy.com/media/l4KibK3h2sA5h1qww/giphy.gif" alt="Hacker Coding GIF" />
 </div>
 
 ---
