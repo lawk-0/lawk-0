@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4KibK3h2sA5h1qww/giphy.gif" alt="Hacker Coding GIF" />
+http://googleusercontent.com/image_generation_content/1
 </div>
 
 ---
@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DarkOrthodox/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DarkOrthodox/DarkOrthodox/output/snake.svg" alt="Snake animation" />
 
 ---
