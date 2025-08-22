@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-http://googleusercontent.com/image_generation_content/1
+  <img src="https://raw.githubusercontent.com/DarkOrthodox/DarkOrthodox/main/assets/hacker.gif" alt="Hacker Coding GIF" />
 </div>
 
 ---
