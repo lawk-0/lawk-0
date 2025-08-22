@@ -58,15 +58,6 @@
 
 ###
 
-<p align="left">Beyond the code, I am driven by the intersection of AI/ML and Cybersecurity. My hobbies include thinking about **philosophies**, writing **poetry**, and playing **badminton** and **chess**. I also play the **piano** and **flute**.</p>
+<p align="left">Beyond the code, I am driven by the intersection of AI/ML and Cybersecurity. My hobbies include thinking about **philosophies** , writing **poetry** , and playing **badminton** and **chess** . I also play the **piano** and **flute** .</p>
 
-###
 
-<h2 align="left">Stats 📊</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkOrthodox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkOrthodox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
