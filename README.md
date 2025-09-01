@@ -60,4 +60,4 @@
 
 * Beyond the code, I am driven by the intersection of AI/ML and Cybersecurity. My hobbies include thinking about **philosophies** , writing **poetry** , and playing **badminton** and **chess** . I also play the **piano** and **flute** 
 
-
+<img src="https://raw.githubusercontent.com/DarkOrthodox/DarkOrthodox/output/github-contribution-grid-snake.svg" alt="snake animation" />
