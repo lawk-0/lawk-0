@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2013<br>🎯 Goals: To become the bridge between the fields of AI/ML and Cybersecurity.<br>🎲 Fun fact: I enjoy singing alone where no one listens.</p>
+<p align="left">✨ Creating bugs since 2018<br>🎯 Goals: To become the bridge between the fields of AI/ML and Cybersecurity.<br>🎲 Fun fact: I enjoy singing alone where no one listens.</p>
 
 ###
 
